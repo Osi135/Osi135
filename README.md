@@ -7,6 +7,6 @@ If you find my github interesting, and you are hiring, i please contact me on em
 - Javascript
 - Java
 ## General skills
-- Cyber security
+- [Cyber security](./CyberSecurity-Writeups)
 - Web development
 - AI 
