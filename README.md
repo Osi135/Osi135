@@ -7,6 +7,6 @@ If you find my github interesting, and you are hiring, i please contact me on em
 - [Javascript](https://github.com/Osi135/Progress-tracker_MERN-app)
 - Java
 ## General skills
-- [Cyber security]([./CyberSecurity-Writeups](https://github.com/Osi135/CyberSecurity-Writeups))
+- [Cyber security](https://github.com/Osi135/CyberSecurity-Writeups)
 - [Web development](https://github.com/Osi135/Progress-tracker_MERN-app)
 - AI 
